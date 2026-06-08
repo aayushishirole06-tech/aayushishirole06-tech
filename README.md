@@ -158,6 +158,7 @@ Responsive developer portfolio showcasing projects, skills, and achievements.
 
 </div>
 ---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
