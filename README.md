@@ -1,12 +1,37 @@
-# ✨ Hi, I'm Aayushi Shirole 👩‍💻
+<div align="center">
 
-### Third Year CSE Student | Building Projects | Exploring Web Development & Data Science
+# Aayushi Shirole 👩‍💻
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Learning+and+Building+Everyday+🚀;Web+Development+%7C+Data+Science;Exploring+Technology+Through+Projects" />
+### Third Year CSE Student
+
+**Web Development • Data Science • Problem Solving**
+
+<br>
+
+> *Building projects while learning, growing, and exploring technology.*
+
+<br>
+
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aayushi-shirole/)">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aayushi.shirole.06@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aayushishirole06-tech">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Learning+and+Building+Everyday+🚀;Exploring+Web+Development+💻;Learning+Data+Science+📊" />
 
 </div>
 
 ---
+
 
 ## 🌸 About Me
 
