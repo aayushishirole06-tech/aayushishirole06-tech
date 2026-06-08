@@ -8,21 +8,25 @@
 
 <br>
 
-> *Building projects while learning, growing, and exploring technology.*
+Learning, building, and turning ideas into projects 🚀
 
 <br>
 
+<p align="center">
+
 <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aayushi-shirole/)">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aayushi.shirole.06@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/aayushishirole06-tech">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</p>
 
 <br><br>
 
