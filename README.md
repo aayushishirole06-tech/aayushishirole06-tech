@@ -157,6 +157,7 @@ Responsive developer portfolio showcasing projects, skills, and achievements.
 <img src="https://streak-stats.demolab.com?user=aayushishirole06-tech&theme=tokyonight&hide_border=true" />
 
 </div>
+---
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
