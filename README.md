@@ -144,16 +144,19 @@ Responsive developer portfolio showcasing projects, skills, and achievements.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aayushishirole06-tech&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<div align="center">
 
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushishirole06-tech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayushishirole06-tech&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=aayushishirole06-tech&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aayushishirole06-tech&layout=compact&theme=tokyonight&hide_border=true" />
 
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aayushishirole06-tech&theme=tokyonight&hide_border=true" />
+
+</div>
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
