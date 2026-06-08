@@ -1,6 +1,3 @@
-## Hi there 👋
-<div align="center">
-
 # ✨ Hi, I'm Aayushi Shirole 👩‍💻
 
 ### Third Year CSE Student | Building Projects | Exploring Web Development & Data Science
@@ -20,6 +17,10 @@
 ✨ Always learning, building, and growing
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aayushishirole06-tech&label=Profile%20Views&color=BB86FC&style=flat" />
+</p>
+
 
 ## 🛠️ Technical Skills
 
@@ -71,24 +72,58 @@
 
 ### 🚻 Smart Public Toilet Monitoring System (SPTMS)
 
-A web-based sanitation monitoring platform using simulated sensor data for toilet monitoring, cleaning management, alerts, and staff operations.
+Web-based sanitation monitoring system using simulated sensor data for toilet monitoring, cleaning management, alerts, and staff operations.
 
 🔗 Repository:
 [SPTMS Project](https://github.com/aayushishirole06-tech/smart-public-toilet-monitoring-system)
 
 ---
 
+### 📊 Business Sales Performance Dashboard
+
+Power BI dashboard analyzing sales performance trends and business KPIs.
+
+🔗 Repository:
+[FUTURE_DS_01](https://github.com/aayushishirole06-tech/FUTURE_DS_01)
+
+---
+
+### 📈 Customer Churn Analysis & Retention Dashboard
+
+Data analytics dashboard focused on customer churn insights and retention strategies.
+
+🔗 Repository:
+[FUTURE_DS_02](https://github.com/aayushishirole06-tech/FUTURE_DS_02)
+
+---
+
+### 📉 Marketing Funnel & Conversion Analytics Dashboard
+
+Marketing campaign and conversion analysis using Power BI and data visualization.
+
+🔗 Repository:
+[FUTURE_DS_03](https://github.com/aayushishirole06-tech/FUTURE_DS_03)
+
+---
+
+### 🌐 Personal Portfolio Website
+
+Responsive developer portfolio showcasing projects, skills, and achievements.
+
+🔗 Repository:
+[Portfolio Website](https://github.com/aayushishirole06-tech)
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushishirole06-tech&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aayushishirole06-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushishirole06-tech&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushishirole06-tech&theme=tokyonight" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=aayushishirole06-tech&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
